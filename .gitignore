@@ -1,0 +1,2 @@
+*.pbo
+!spec/*.pbo
