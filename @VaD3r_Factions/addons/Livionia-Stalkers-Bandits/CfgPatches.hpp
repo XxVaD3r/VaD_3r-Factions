@@ -1,25 +1,24 @@
 class CfgPatches {
-    class I_LVStalker {
+    class O_BanditArmy {
         units[] = {
-            "I_ILVStalker_Unarmed_01",
-            "I_ILVStalker_Team_Leader_01",
-            "I_ILVStalker_Squad_Leader_01",
-            "I_ILVStalker_Rifleman_01",
-            "I_ILVStalker_Rifleman_AT_01",
-            "I_ILVStalker_Grenadier_01",
-            "I_ILVStalker_Specialist_01",
-            "I_ILVStalker_Machine_Gunner_01",
-            "I_ILVStalker_Machine_Gunner_Assistant_01",
-            "I_ILVStalker_Auto_Rifleman_01",
-            "I_ILVStalker_Sniper_01"
+            "O_BanditArmy_Unarmed_01",
+            "O_BanditArmy_Leader_01",
+            "O_BanditArmy_Rifleman_01",
+            "O_BanditArmy_Grenadier_01",
+            "O_BanditArmy_Specialist_01",
+            "O_BanditArmy_Auto_Rifleman_01",
+            "O_BanditArmy_Sniper_01",
+            "O_BanditArmy_Man_SMG_01",
+            "O_BanditArmy_Man_Shotgun_01",
+            "O_BanditArmy_Man_Rifle_01"
         };
         weapons[] = {};
         requiredVersion = 1.62;
         requiredAddons[] = {
+            "rhsgref_c_troops",
             "A3_Characters_F",
             "rhs_c_troops",
             "rhs_cti_insurgents",
-            "rhsgref_c_troops",
             "rhssaf_c_troops",
             "A3_Sounds_F",
             "A3_Sounds_F_Exp",

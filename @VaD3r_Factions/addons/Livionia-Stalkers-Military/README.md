@@ -1,17 +1,17 @@
 # Livonia Stalkers Military Faction
 
 ## Units
-[X] Team Leader
-[X] Squad Leader
-[X] Rifleman
-[X] Rifleman (AT)
-[X] Grenadier
-[X] Specialist
-[ ] Machine Gunner
-[ ] Machine Gunner Assistant
-[ ] Auto Rifleman
-[ ] Sniper
-[x] Unarmed
+- [X] Team Leader
+- [X] Squad Leader
+- [X] Rifleman
+- [X] Rifleman (AT)
+- [X] Grenadier
+- [X] Specialist
+- [X] Machine Gunner
+- [X] Machine Gunner Assistant
+- [X] Auto Rifleman
+- [X] Sniper
+- [x] Unarmed
 
 ## Groups
 - Team

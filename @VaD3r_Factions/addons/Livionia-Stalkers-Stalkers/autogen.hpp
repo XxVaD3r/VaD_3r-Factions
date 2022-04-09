@@ -6,7 +6,7 @@
 
 class CfgFactionClasses {
     class I_LVStalker {
-        displayName = "Livonia Stalkers";
+        displayName = "Livonia STALKER : Stalkers";
         side = 2;
         flag = "\A3\ui_f\data\map\markers\flags\Altis_ca.paa";
         icon = "\A3\ui_f\data\map\markers\flags\Altis_ca.paa";

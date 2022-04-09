@@ -6,10 +6,10 @@ An ARMA 3 mod that includes various factions made by VaD_3r (me?!?!?)
  -  Livonia STALKER
 	 - STALKERS (Free Stalkers/Loners)
 	 - Military 
+ 	 - Bandits
 
 # Units Planned
 - Livonia STALKER
-	 - Bandits 
 	 - Mercenaries
 	 - Anarchists (Freedom)
 	 - Paramilitary (Duty)
@@ -26,6 +26,6 @@ If you would like to suggest a change or an addition, you can create an issue ma
 - Alive ORBAT Editor
 - Pretty much every RHS Unit mod
 - CUP Weapons and Uniforms
-
+- NIArms All-In-One
 # Disclaimer
 This repo is not stable, it is not guaranteed to work if you compile it yourself. If you want a working version visit the releases tab. Or fix the issues with the source yourself.

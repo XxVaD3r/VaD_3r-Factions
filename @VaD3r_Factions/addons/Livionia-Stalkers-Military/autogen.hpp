@@ -6,7 +6,7 @@
 
 class CfgFactionClasses {
     class B_LivionianStalkersArmyArmy {
-        displayName = "Livionia Stalkers Army";
+        displayName = "Livionia STALKER : Army";
         side = 1;
         flag = "\a3\UI_F_Enoch\Data\CfgMarkers\Livonia_CA.paa";
         icon = "\a3\UI_F_Enoch\Data\CfgMarkers\Livonia_CA.paa";
@@ -31,7 +31,7 @@ class CfgVehicles {
 
 
     class B_Livionian_Stalkers_ArmyArmy_Unarmed_01 : B_G_Survivor_F_OCimport_02 {
-        author = "Dima";
+        author = "VaD_3r";
         scope = 2;
         scopeCurator = 2;
         displayName = "Unarmed";
@@ -70,7 +70,7 @@ class CfgVehicles {
     };
 
     class B_Livionian_Stalkers_ArmyArmy_Team_Leader_01 : B_Livionian_Stalkers_ArmyArmy_Unarmed_01 {
-        author = "Dima";
+        author = "VaD_3r";
         scope = 2;
         scopeCurator = 2;
         displayName = "Team Leader";
@@ -109,7 +109,7 @@ class CfgVehicles {
     };
 
     class B_Livionian_Stalkers_ArmyArmy_Squad_Leader_01 : B_Livionian_Stalkers_ArmyArmy_Unarmed_01 {
-        author = "Dima";
+        author = "VaD_3r";
         scope = 2;
         scopeCurator = 2;
         displayName = "Squad Leader";
@@ -148,7 +148,7 @@ class CfgVehicles {
     };
 
     class B_Livionian_Stalkers_ArmyArmy_Rifleman_01 : B_Livionian_Stalkers_ArmyArmy_Unarmed_01 {
-        author = "Dima";
+        author = "VaD_3r";
         scope = 2;
         scopeCurator = 2;
         displayName = "Rifleman";
@@ -187,7 +187,7 @@ class CfgVehicles {
     };
 
     class B_Livionian_Stalkers_ArmyArmy_Rifleman_AT_01 : B_Livionian_Stalkers_ArmyArmy_Unarmed_01 {
-        author = "Dima";
+        author = "VaD_3r";
         scope = 2;
         scopeCurator = 2;
         displayName = "Rifleman (AT)";
@@ -228,7 +228,7 @@ class CfgVehicles {
     };
 
     class B_Livionian_Stalkers_ArmyArmy_Grenadier_01 : B_Livionian_Stalkers_ArmyArmy_Unarmed_01 {
-        author = "Dima";
+        author = "VaD_3r";
         scope = 2;
         scopeCurator = 2;
         displayName = "Grenadier";
@@ -267,7 +267,7 @@ class CfgVehicles {
     };
 
     class B_Livionian_Stalkers_ArmyArmy_Specialist_01 : B_Livionian_Stalkers_ArmyArmy_Unarmed_01 {
-        author = "Dima";
+        author = "VaD_3r";
         scope = 2;
         scopeCurator = 2;
         displayName = "Specialist";
@@ -306,7 +306,7 @@ class CfgVehicles {
     };
 
     class B_Livionian_Stalkers_ArmyArmy_Machine_Gunner_01 : B_Livionian_Stalkers_ArmyArmy_Unarmed_01 {
-        author = "Dima";
+        author = "VaD_3r";
         scope = 2;
         scopeCurator = 2;
         displayName = "Machine Gunner";
@@ -347,7 +347,7 @@ class CfgVehicles {
     };
 
     class B_Livionian_Stalkers_ArmyArmy_Machine_Gunner_Assistant_01 : B_Livionian_Stalkers_ArmyArmy_Unarmed_01 {
-        author = "Dima";
+        author = "VaD_3r";
         scope = 2;
         scopeCurator = 2;
         displayName = "Machine Gunner Assistant";
@@ -388,7 +388,7 @@ class CfgVehicles {
     };
 
     class B_Livionian_Stalkers_ArmyArmy_Auto_Rifleman_01 : B_Livionian_Stalkers_ArmyArmy_Unarmed_01 {
-        author = "Dima";
+        author = "VaD_3r";
         scope = 2;
         scopeCurator = 2;
         displayName = "Auto Rifleman";
@@ -429,7 +429,7 @@ class CfgVehicles {
     };
 
     class B_Livionian_Stalkers_ArmyArmy_Sniper_01 : B_Livionian_Stalkers_ArmyArmy_Unarmed_01 {
-        author = "Dima";
+        author = "VaD_3r";
         scope = 2;
         scopeCurator = 2;
         displayName = "Sniper";
