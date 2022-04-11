@@ -1,4 +1,4 @@
-# Livonia Stalkers Military Faction
+# Livonia Stalkers Army
 
 ## Units
 - [X] Team Leader

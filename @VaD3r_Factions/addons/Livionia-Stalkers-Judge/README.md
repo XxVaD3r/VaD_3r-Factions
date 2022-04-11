@@ -1,4 +1,4 @@
-# Livonia Stalkers Faction
+# Livonia Stalkers Judge
 
 ## Units
 - [X] Team Leader

@@ -6,7 +6,7 @@
 
 class CfgFactionClasses {
     class I_LVStalker {
-        displayName = "Livonia STALKER : Stalkers";
+        displayName = "Livonia STALKER : Judge";
         side = 2;
         flag = "\A3\ui_f\data\map\markers\flags\Altis_ca.paa";
         icon = "\A3\ui_f\data\map\markers\flags\Altis_ca.paa";
@@ -37,7 +37,7 @@ class CfgVehicles {
         side = 2;
         faction = "I_LVStalker";
 
-        identityTypes[] = {"Head_Euro","LanguageGRE_F","G_HAF_default"};
+        identityTypes[] = {"Head_Euro","LanguageRUS","G_HAF_default"};
 
         uniformClass = "U_I_C_Soldier_Para_3_F";
 
@@ -76,7 +76,7 @@ class CfgVehicles {
         side = 2;
         faction = "I_LVStalker";
 
-        identityTypes[] = {"Head_Euro","LanguageGRE_F","G_HAF_default"};
+        identityTypes[] = {"Head_Euro","LanguageRUS","G_HAF_default"};
 
         uniformClass = "rhs_uniform_rva_flora";
 
@@ -115,7 +115,7 @@ class CfgVehicles {
         side = 2;
         faction = "I_LVStalker";
 
-        identityTypes[] = {"Head_Euro","LanguageGRE_F","G_HAF_default"};
+        identityTypes[] = {"Head_Euro","LanguageRUS","G_HAF_default"};
 
         uniformClass = "U_B_CombatUniform_tshirt_mcam_wdL_f";
 
@@ -154,7 +154,7 @@ class CfgVehicles {
         side = 2;
         faction = "I_LVStalker";
 
-        identityTypes[] = {"Head_Euro","LanguageGRE_F","G_HAF_default"};
+        identityTypes[] = {"Head_Euro","LanguageRUS","G_HAF_default"};
 
         uniformClass = "U_B_CombatUniform_mcam_wdl_f";
 
@@ -193,7 +193,7 @@ class CfgVehicles {
         side = 2;
         faction = "I_LVStalker";
 
-        identityTypes[] = {"Head_Euro","LanguageGRE_F","G_HAF_default"};
+        identityTypes[] = {"Head_Euro","LanguageRUS","G_HAF_default"};
 
         uniformClass = "U_B_CombatUniform_mcam_wdl_f";
 
@@ -234,7 +234,7 @@ class CfgVehicles {
         side = 2;
         faction = "I_LVStalker";
 
-        identityTypes[] = {"Head_Euro","LanguageGRE_F","G_HAF_default"};
+        identityTypes[] = {"Head_Euro","LanguageRUS","G_HAF_default"};
 
         uniformClass = "rhs_uniform_afghanka_vsr_1";
 
@@ -273,7 +273,7 @@ class CfgVehicles {
         side = 2;
         faction = "I_LVStalker";
 
-        identityTypes[] = {"Head_Euro","LanguageGRE_F","G_HAF_default"};
+        identityTypes[] = {"Head_Euro","LanguageRUS","G_HAF_default"};
 
         uniformClass = "rhs_uniform_gorka_r_g";
 
@@ -312,7 +312,7 @@ class CfgVehicles {
         side = 2;
         faction = "I_LVStalker";
 
-        identityTypes[] = {"Head_Euro","LanguageGRE_F","G_HAF_default"};
+        identityTypes[] = {"Head_Euro","LanguageRUS","G_HAF_default"};
 
         uniformClass = "rhs_uniform_6sh122_gloves_v1";
 
@@ -353,7 +353,7 @@ class CfgVehicles {
         side = 2;
         faction = "I_LVStalker";
 
-        identityTypes[] = {"Head_Euro","LanguageGRE_F","G_HAF_default"};
+        identityTypes[] = {"Head_Euro","LanguageRUS","G_HAF_default"};
 
         uniformClass = "U_I_C_Soldier_Para_2_F";
 
@@ -394,7 +394,7 @@ class CfgVehicles {
         side = 2;
         faction = "I_LVStalker";
 
-        identityTypes[] = {"Head_Euro","LanguageGRE_F","G_HAF_default"};
+        identityTypes[] = {"Head_Euro","LanguageRUS","G_HAF_default"};
 
         uniformClass = "rhs_uniform_afghanka_boots_spetsodezhda";
 
@@ -435,7 +435,7 @@ class CfgVehicles {
         side = 2;
         faction = "I_LVStalker";
 
-        identityTypes[] = {"Head_Euro","LanguageGRE_F","G_HAF_default"};
+        identityTypes[] = {"Head_Euro","LanguageRUS","G_HAF_default"};
 
         uniformClass = "U_B_CTRG_Soldier_F";
 
@@ -478,7 +478,7 @@ class CfgGroups {
     class Indep {
 
         class I_LVStalker {
-            name = "Livonia Stalkers";
+            name = "Livonia STALKER : Judge";
 
             class Infantry {
                 name = "Infantry";

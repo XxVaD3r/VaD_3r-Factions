@@ -6,7 +6,7 @@
 
 class CfgFactionClasses {
     class B_LivionianStalkersArmyArmy {
-        displayName = "Livionia STALKER : Army";
+        displayName = "Livionia STALKER : Livionia Army";
         side = 1;
         flag = "\a3\UI_F_Enoch\Data\CfgMarkers\Livonia_CA.paa";
         icon = "\a3\UI_F_Enoch\Data\CfgMarkers\Livonia_CA.paa";
@@ -38,7 +38,7 @@ class CfgVehicles {
         side = 1;
         faction = "B_LivionianStalkersArmyArmy";
 
-        identityTypes[] = {"Head_Euro","LanguageGRE_F","G_GUERIL_default"};
+        identityTypes[] = {"Head_Euro","LanguageRUS","G_GUERIL_default"};
 
         uniformClass = "rhsgref_uniform_ttsko_forest";
 
@@ -77,7 +77,7 @@ class CfgVehicles {
         side = 1;
         faction = "B_LivionianStalkersArmyArmy";
 
-        identityTypes[] = {"Head_Euro","LanguageGRE_F","G_GUERIL_default"};
+        identityTypes[] = {"Head_Euro","LanguageRUS","G_GUERIL_default"};
 
         uniformClass = "rhsgref_uniform_ttsko_forest";
 
@@ -116,7 +116,7 @@ class CfgVehicles {
         side = 1;
         faction = "B_LivionianStalkersArmyArmy";
 
-        identityTypes[] = {"Head_Euro","LanguageGRE_F","G_GUERIL_default"};
+        identityTypes[] = {"Head_Euro","LanguageRUS","G_GUERIL_default"};
 
         uniformClass = "rhsgref_uniform_ttsko_forest";
 
@@ -155,7 +155,7 @@ class CfgVehicles {
         side = 1;
         faction = "B_LivionianStalkersArmyArmy";
 
-        identityTypes[] = {"Head_Euro","LanguageGRE_F","G_GUERIL_default"};
+        identityTypes[] = {"Head_Euro","LanguageRUS","G_GUERIL_default"};
 
         uniformClass = "rhsgref_uniform_ttsko_forest";
 
@@ -194,7 +194,7 @@ class CfgVehicles {
         side = 1;
         faction = "B_LivionianStalkersArmyArmy";
 
-        identityTypes[] = {"Head_Euro","LanguageGRE_F","G_GUERIL_default"};
+        identityTypes[] = {"Head_Euro","LanguageRUS","G_GUERIL_default"};
 
         uniformClass = "rhsgref_uniform_ttsko_forest";
 
@@ -235,7 +235,7 @@ class CfgVehicles {
         side = 1;
         faction = "B_LivionianStalkersArmyArmy";
 
-        identityTypes[] = {"Head_Euro","LanguageGRE_F","G_GUERIL_default"};
+        identityTypes[] = {"Head_Euro","LanguageRUS","G_GUERIL_default"};
 
         uniformClass = "rhsgref_uniform_ttsko_forest";
 
@@ -274,7 +274,7 @@ class CfgVehicles {
         side = 1;
         faction = "B_LivionianStalkersArmyArmy";
 
-        identityTypes[] = {"Head_Euro","LanguageGRE_F","G_GUERIL_default"};
+        identityTypes[] = {"Head_Euro","LanguageRUS","G_GUERIL_default"};
 
         uniformClass = "rhs_uniform_gorka_r_g_gloves";
 
@@ -313,7 +313,7 @@ class CfgVehicles {
         side = 1;
         faction = "B_LivionianStalkersArmyArmy";
 
-        identityTypes[] = {"Head_Euro","LanguageGRE_F","G_GUERIL_default"};
+        identityTypes[] = {"Head_Euro","LanguageRUS","G_GUERIL_default"};
 
         uniformClass = "rhsgref_uniform_ttsko_forest";
 
@@ -354,7 +354,7 @@ class CfgVehicles {
         side = 1;
         faction = "B_LivionianStalkersArmyArmy";
 
-        identityTypes[] = {"Head_Euro","LanguageGRE_F","G_GUERIL_default"};
+        identityTypes[] = {"Head_Euro","LanguageRUS","G_GUERIL_default"};
 
         uniformClass = "rhsgref_uniform_ttsko_forest";
 
@@ -395,7 +395,7 @@ class CfgVehicles {
         side = 1;
         faction = "B_LivionianStalkersArmyArmy";
 
-        identityTypes[] = {"Head_Euro","LanguageGRE_F","G_GUERIL_default"};
+        identityTypes[] = {"Head_Euro","LanguageRUS","G_GUERIL_default"};
 
         uniformClass = "rhsgref_uniform_ttsko_forest";
 
@@ -436,7 +436,7 @@ class CfgVehicles {
         side = 1;
         faction = "B_LivionianStalkersArmyArmy";
 
-        identityTypes[] = {"Head_Euro","LanguageGRE_F","G_GUERIL_default"};
+        identityTypes[] = {"Head_Euro","LanguageRUS","G_GUERIL_default"};
 
         uniformClass = "rhsgref_uniform_ttsko_forest";
 
@@ -479,7 +479,7 @@ class CfgGroups {
     class WEST {
 
         class B_LivionianStalkersArmyArmy {
-            name = "Livionia Stalkers Army";
+            name = "Livionia STALKER : Livionia Army";
 
             class Infantry {
                 name = "Infantry";

@@ -4,13 +4,13 @@ An ARMA 3 mod that includes various factions made by VaD_3r (me?!?!?)
 
 # Units Added
  -  Livonia STALKER
-	 - STALKERS (Free Stalkers/Loners)
-	 - Military 
- 	 - Bandits
+	 - Judge (Duty (MAY CHANGE))
+	 - Livionia Army (Military) 
+ 	 - Bandits (Bandits)
+	 - White Lake Mercenaries (Mercenaries)
 
 # Units Planned
 - Livonia STALKER
-	 - Mercenaries
 	 - Anarchists (Freedom)
 	 - Paramilitary (Duty)
 	 - Cultists (Monolith)
