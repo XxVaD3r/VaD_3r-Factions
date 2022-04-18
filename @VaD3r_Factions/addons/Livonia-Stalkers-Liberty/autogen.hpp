@@ -31,7 +31,7 @@ class CfgVehicles {
 
 
     class O_LibertyArmy_Unarmed_01 : rhsgref_ins_rifleman_akm_OCimport_02 {
-        author = "Dima";
+        author = "VaD_3r";
         scope = 2;
         scopeCurator = 2;
         displayName = "Unarmed";
@@ -70,7 +70,7 @@ class CfgVehicles {
     };
 
     class O_LibertyArmy_Team_Leader_01 : O_LibertyArmy_Unarmed_01 {
-        author = "Dima";
+        author = "VaD_3r";
         scope = 2;
         scopeCurator = 2;
         displayName = "Team Leader";
@@ -109,7 +109,7 @@ class CfgVehicles {
     };
 
     class O_LibertyArmy_Squad_Leader_01 : O_LibertyArmy_Unarmed_01 {
-        author = "Dima";
+        author = "VaD_3r";
         scope = 2;
         scopeCurator = 2;
         displayName = "Squad Leader";
@@ -148,7 +148,7 @@ class CfgVehicles {
     };
 
     class O_LibertyArmy_Rifleman_01 : O_LibertyArmy_Unarmed_01 {
-        author = "Dima";
+        author = "VaD_3r";
         scope = 2;
         scopeCurator = 2;
         displayName = "Rifleman";
@@ -187,7 +187,7 @@ class CfgVehicles {
     };
 
     class O_LibertyArmy_Rifleman_AT_01 : O_LibertyArmy_Rifleman_01 {
-        author = "Dima";
+        author = "VaD_3r";
         scope = 2;
         scopeCurator = 2;
         displayName = "Rifleman (AT)";
@@ -228,7 +228,7 @@ class CfgVehicles {
     };
 
     class O_LibertyArmy_Grenadier_01 : O_LibertyArmy_Unarmed_01 {
-        author = "Dima";
+        author = "VaD_3r";
         scope = 2;
         scopeCurator = 2;
         displayName = "Grenadier";
@@ -269,7 +269,7 @@ class CfgVehicles {
     };
 
     class O_LibertyArmy_Specialist_01 : O_LibertyArmy_Unarmed_01 {
-        author = "Dima";
+        author = "VaD_3r";
         scope = 2;
         scopeCurator = 2;
         displayName = "Specialist";
@@ -308,7 +308,7 @@ class CfgVehicles {
     };
 
     class O_LibertyArmy_Machine_Gunner_01 : O_LibertyArmy_Unarmed_01 {
-        author = "Dima";
+        author = "VaD_3r";
         scope = 2;
         scopeCurator = 2;
         displayName = "Machine Gunner";
@@ -349,7 +349,7 @@ class CfgVehicles {
     };
 
     class O_LibertyArmy_Machine_Gunner_Assistant_01 : O_LibertyArmy_Unarmed_01 {
-        author = "Dima";
+        author = "VaD_3r";
         scope = 2;
         scopeCurator = 2;
         displayName = "Machine Gunner Assistant";
@@ -390,7 +390,7 @@ class CfgVehicles {
     };
 
     class O_LibertyArmy_Auto_Rifleman_01 : O_LibertyArmy_Unarmed_01 {
-        author = "Dima";
+        author = "VaD_3r";
         scope = 2;
         scopeCurator = 2;
         displayName = "Auto Rifleman";
@@ -431,7 +431,7 @@ class CfgVehicles {
     };
 
     class O_LibertyArmy_Sniper_01 : O_LibertyArmy_Unarmed_01 {
-        author = "Dima";
+        author = "VaD_3r";
         scope = 2;
         scopeCurator = 2;
         displayName = "Sniper";

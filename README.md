@@ -9,10 +9,10 @@ An ARMA 3 mod that includes various factions made by VaD_3r (me?!?!?)
 	 - Livionia Army (Military) 
  	 - Bandits (Bandits)
 	 - White Lake Mercenaries (Mercenaries)
+	 - 25th Hour (Monolith)
 
 # Units Planned
 - Livonia STALKER
-	 - Cultists (Monolith)
 	 - Outcasts (Clear Sky)
 	 - Disturbed (Renegades) [Maybe]
 	 - Scientists (Ecologists) [Maybe]

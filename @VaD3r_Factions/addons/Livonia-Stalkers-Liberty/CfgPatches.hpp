@@ -29,7 +29,7 @@ class CfgPatches {
             "A3_Air_F_Heli",
             "cba_xeh"
         };
-        author = "Dima";
-        authors[] = {"Dima"};
+        author = "VaD_3r";
+        authors[] = {"VaD_3r"};
     };
 };

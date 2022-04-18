@@ -30,7 +30,7 @@ class CfgVehicles {
 
 
     class I_ILVStalker_Unarmed_01 : I_Soldier_unarmed_F_OCimport_02 {
-        author = "Dima";
+        author = "VaD_3r";
         scope = 2;
         scopeCurator = 2;
         displayName = "Unarmed";
@@ -69,7 +69,7 @@ class CfgVehicles {
     };
 
     class I_ILVStalker_Team_Leader_01 : I_ILVStalker_Unarmed_01 {
-        author = "Dima";
+        author = "VaD_3r";
         scope = 2;
         scopeCurator = 2;
         displayName = "Team Leader";
@@ -108,7 +108,7 @@ class CfgVehicles {
     };
 
     class I_ILVStalker_Squad_Leader_01 : I_ILVStalker_Unarmed_01 {
-        author = "Dima";
+        author = "VaD_3r";
         scope = 2;
         scopeCurator = 2;
         displayName = "Squad Leader";
@@ -147,7 +147,7 @@ class CfgVehicles {
     };
 
     class I_ILVStalker_Rifleman_01 : I_ILVStalker_Unarmed_01 {
-        author = "Dima";
+        author = "VaD_3r";
         scope = 2;
         scopeCurator = 2;
         displayName = "Rifleman";
@@ -186,7 +186,7 @@ class CfgVehicles {
     };
 
     class I_ILVStalker_Rifleman_AT_01 : I_ILVStalker_Rifleman_01 {
-        author = "Dima";
+        author = "VaD_3r";
         scope = 2;
         scopeCurator = 2;
         displayName = "Rifleman (AT)";
@@ -227,7 +227,7 @@ class CfgVehicles {
     };
 
     class I_ILVStalker_Grenadier_01 : I_ILVStalker_Unarmed_01 {
-        author = "Dima";
+        author = "VaD_3r";
         scope = 2;
         scopeCurator = 2;
         displayName = "Grenadier";
@@ -266,7 +266,7 @@ class CfgVehicles {
     };
 
     class I_ILVStalker_Specialist_01 : I_ILVStalker_Unarmed_01 {
-        author = "Dima";
+        author = "VaD_3r";
         scope = 2;
         scopeCurator = 2;
         displayName = "Specialist";
@@ -305,7 +305,7 @@ class CfgVehicles {
     };
 
     class I_ILVStalker_Machine_Gunner_01 : I_ILVStalker_Unarmed_01 {
-        author = "Dima";
+        author = "VaD_3r";
         scope = 2;
         scopeCurator = 2;
         displayName = "Machine Gunner";
@@ -346,7 +346,7 @@ class CfgVehicles {
     };
 
     class I_ILVStalker_Machine_Gunner_Assistant_01 : I_ILVStalker_Unarmed_01 {
-        author = "Dima";
+        author = "VaD_3r";
         scope = 2;
         scopeCurator = 2;
         displayName = "Machine Gunner Assistant";
@@ -387,7 +387,7 @@ class CfgVehicles {
     };
 
     class I_ILVStalker_Auto_Rifleman_01 : I_ILVStalker_Unarmed_01 {
-        author = "Dima";
+        author = "VaD_3r";
         scope = 2;
         scopeCurator = 2;
         displayName = "Auto Rifleman";
@@ -428,7 +428,7 @@ class CfgVehicles {
     };
 
     class I_ILVStalker_Sniper_01 : I_ILVStalker_Unarmed_01 {
-        author = "Dima";
+        author = "VaD_3r";
         scope = 2;
         scopeCurator = 2;
         displayName = "Sniper";
